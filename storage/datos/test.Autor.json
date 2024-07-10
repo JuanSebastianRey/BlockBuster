@@ -1,0 +1,311 @@
+  [{
+  "_id": {
+    "$oid": "66782771e2c91fa1ae7aa22d"
+  },
+  "id_actor": 1,
+  "full_name": "John Doe",
+  "date_of_birth": "1975-03-15",
+  "nationality": "United States",
+  "biography": "John Doe is a renowned actor who has starred in numerous blockbuster films.",
+  "awards": [
+    {
+      "name": "Golden Globe Award",
+      "year": 2018,
+      "category": "Best Supporting Actor"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/johndoe",
+    "instagram": "https://instagram.com/johndoe"
+  },
+  "website": "https://www.johndoe.com"
+},
+{
+  "_id": {
+    "$oid": "66782771e2c91fa1ae7aa22e"
+  },
+  "id_actor": 2,
+  "full_name": "Jane Smith",
+  "date_of_birth": "1980-06-25",
+  "nationality": "United Kingdom",
+  "biography": "Jane Smith is a talented actress known for her versatile roles in various genres.",
+  "awards": [
+    {
+      "name": "Oscar Award",
+      "year": 2020,
+      "category": "Best Actress"
+    },
+    {
+      "name": "Golden Globe Award",
+      "year": 2017,
+      "category": "Best Ensemble Cast"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/janesmith",
+    "instagram": "https://instagram.com/janesmith"
+  },
+  "website": "https://www.janesmithofficial.com"
+},
+{
+  "_id": {
+    "$oid": "66782782e2c91fa1ae7aa22f"
+  },
+  "id_actor": 3,
+  "full_name": "Michael Johnson",
+  "date_of_birth": "1982-11-10",
+  "nationality": "Canada",
+  "biography": "Michael Johnson is a versatile actor known for his intense portrayals in action and drama films.",
+  "awards": [
+    {
+      "name": "Oscar Award",
+      "year": 2017,
+      "category": "Best Actor in a Leading Role"
+    },
+    {
+      "name": "Golden Globe Award",
+      "year": 2016,
+      "category": "Best Performance by an Actor in a Motion Picture - Drama"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/michaeljohnson",
+    "instagram": "https://instagram.com/michaeljohnson"
+  },
+  "website": "https://www.michaeljohnsonofficial.com"
+},
+{
+  "_id": {
+    "$oid": "66782782e2c91fa1ae7aa230"
+  },
+  "id_actor": 4,
+  "full_name": "Emily Brown",
+  "date_of_birth": "1985-09-20",
+  "nationality": "Australia",
+  "biography": "Emily Brown is an acclaimed actress known for her compelling performances in thriller and mystery films.",
+  "awards": [
+    {
+      "name": "Oscar Award",
+      "year": 2018,
+      "category": "Best Actress in a Supporting Role"
+    },
+    {
+      "name": "Golden Globe Award",
+      "year": 2017,
+      "category": "Best Performance by an Actress in a Supporting Role"
+    },
+    {
+      "name": "Oscar Award",
+      "year": "2018",
+      "category": "null"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/emilybrown",
+    "instagram": "https://instagram.com/emilybrown"
+  },
+  "website": "https://www.emilybrownofficial.com"
+},
+{
+  "_id": {
+    "$oid": "66782782e2c91fa1ae7aa231"
+  },
+  "id_actor": 5,
+  "full_name": "Daniel Martinez",
+  "date_of_birth": "1987-04-30",
+  "nationality": "Spain",
+  "biography": "Daniel Martinez is a charismatic actor known for his dynamic roles in action and adventure films.",
+  "awards": [
+    {
+      "name": "Oscar Award",
+      "year": 2019,
+      "category": "Best Actor in an Action Film"
+    },
+    {
+      "name": "Golden Globe Award",
+      "year": 2018,
+      "category": "Best Performance by an Actor in an Action Role"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/danielmartinez",
+    "instagram": "https://instagram.com/danielmartinez"
+  },
+  "website": "https://www.danielmartinezofficial.com"
+},
+{
+  "_id": {
+    "$oid": "667b61a28e251fe848c6a87c"
+  },
+  "id_actor": 2,
+  "full_name": "Jane Smith",
+  "date_of_birth": "1982-07-22",
+  "nationality": "Canada",
+  "biography": "Jane Smith is a celebrated actress known for her versatile roles in independent films.",
+  "awards": [
+    {
+      "name": "Academy Award",
+      "year": 2015,
+      "category": "Best Actress"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/janesmith",
+    "instagram": "https://instagram.com/janesmith"
+  },
+  "website": "https://www.janesmith.com"
+},
+{
+  "_id": {
+    "$oid": "667b61a28e251fe848c6a87d"
+  },
+  "id_actor": 3,
+  "full_name": "Michael Johnson",
+  "date_of_birth": "1980-11-05",
+  "nationality": "United Kingdom",
+  "biography": "Michael Johnson has gained fame for his powerful performances in historical dramas.",
+  "awards": [
+    {
+      "name": "BAFTA Award",
+      "year": 2017,
+      "category": "Best Actor"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/michaeljohnson",
+    "instagram": "https://instagram.com/michaeljohnson"
+  },
+  "website": "https://www.michaeljohnson.com"
+},
+{
+  "_id": {
+    "$oid": "667b61a28e251fe848c6a87e"
+  },
+  "id_actor": 4,
+  "full_name": "Emily Davis",
+  "date_of_birth": "1990-04-12",
+  "nationality": "Australia",
+  "biography": "Emily Davis is a prominent actress who has made a mark in both television and film.",
+  "awards": [
+    {
+      "name": "Emmy Award",
+      "year": 2020,
+      "category": "Best Actress in a Drama Series"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/emilydavis",
+    "instagram": "https://instagram.com/emilydavis"
+  },
+  "website": "https://www.emilydavis.com"
+},
+{
+  "_id": {
+    "$oid": "667b61a28e251fe848c6a87f"
+  },
+  "id_actor": 5,
+  "full_name": "David Brown",
+  "date_of_birth": "1978-09-19",
+  "nationality": "Ireland",
+  "biography": "David Brown is known for his comedic roles in various popular movies.",
+  "awards": [
+    {
+      "name": "Golden Globe Award",
+      "year": 2019,
+      "category": "Best Actor in a Comedy"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/davidbrown",
+    "instagram": "https://instagram.com/davidbrown"
+  },
+  "website": "https://www.davidbrown.com"
+},
+{
+  "_id": {
+    "$oid": "667b61a28e251fe848c6a880"
+  },
+  "id_actor": 6,
+  "full_name": "Sarah Lee",
+  "date_of_birth": "1985-02-28",
+  "nationality": "New Zealand",
+  "biography": "Sarah Lee has received acclaim for her performances in both action and drama genres.",
+  "awards": [
+    {
+      "name": "Screen Actors Guild Award",
+      "year": 2021,
+      "category": "Outstanding Performance by a Female Actor"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/sarahlee",
+    "instagram": "https://instagram.com/sarahlee"
+  },
+  "website": "https://www.sarahlee.com"
+},
+{
+  "_id": {
+    "$oid": "667b61a28e251fe848c6a881"
+  },
+  "id_actor": 7,
+  "full_name": "Robert Martinez",
+  "date_of_birth": "1983-08-14",
+  "nationality": "Mexico",
+  "biography": "Robert Martinez is an actor known for his intense performances in dramatic films.",
+  "awards": [
+    {
+      "name": "Ariel Award",
+      "year": 2016,
+      "category": "Best Actor"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/robertmartinez",
+    "instagram": "https://instagram.com/robertmartinez"
+  },
+  "website": "https://www.robertmartinez.com"
+},
+{
+  "_id": {
+    "$oid": "667b61a28e251fe848c6a882"
+  },
+  "id_actor": 8,
+  "full_name": "Laura White",
+  "date_of_birth": "1992-01-10",
+  "nationality": "South Africa",
+  "biography": "Laura White has quickly risen to fame with her compelling roles in various genres.",
+  "awards": [
+    {
+      "name": "SAFTA",
+      "year": 2022,
+      "category": "Best Actress"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/laurawhite",
+    "instagram": "https://instagram.com/laurawhite"
+  },
+  "website": "https://www.laurawhite.com"
+},
+{
+  "_id": {
+    "$oid": "667b61a28e251fe848c6a883"
+  },
+  "id_actor": 9,
+  "full_name": "Thomas Clark",
+  "date_of_birth": "1974-06-03",
+  "nationality": "United States",
+  "biography": "Thomas Clark is a veteran actor celebrated for his roles in both film and theater.",
+  "awards": [
+    {
+      "name": "Tony Award",
+      "year": 2010,
+      "category": "Best Actor in a Play"
+    }
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/thomasclark",
+    "instagram": "https://instagram.com/thomasclark"
+  },
+  "website": "https://www.thomasclark.com"
+}]
